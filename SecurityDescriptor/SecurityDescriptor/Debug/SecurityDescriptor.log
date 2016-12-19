@@ -1,6 +1,5 @@
-﻿  SecurityDescriptor.cpp
-c:\users\roxana\documents\github\securitydescriptor\securitydescriptor\securitydescriptor\securitydescriptor.cpp(67): warning C4101: 'securityAttributes': unreferenced local variable
-c:\users\roxana\documents\github\securitydescriptor\securitydescriptor\securitydescriptor\securitydescriptor.cpp(66): warning C4101: 'hKey': unreferenced local variable
-c:\users\roxana\documents\github\securitydescriptor\securitydescriptor\securitydescriptor\securitydescriptor.cpp(73): warning C4101: 'dwDisposition': unreferenced local variable
-  SecurityDescriptor.vcxproj -> C:\Users\Roxana\Documents\GitHub\SecurityDescriptor\SecurityDescriptor\Debug\SecurityDescriptor.exe
-  SecurityDescriptor.vcxproj -> C:\Users\Roxana\Documents\GitHub\SecurityDescriptor\SecurityDescriptor\Debug\SecurityDescriptor.pdb (Full PDB)
+﻿  stdafx.cpp
+  SecurityDescriptor.cpp
+  LINK : C:\Users\roxan\Documents\GitHub\SecurityDescriptor\SecurityDescriptor\Debug\SecurityDescriptor.exe not found or not built by the last incremental link; performing full link
+  SecurityDescriptor.vcxproj -> C:\Users\roxan\Documents\GitHub\SecurityDescriptor\SecurityDescriptor\Debug\SecurityDescriptor.exe
+  SecurityDescriptor.vcxproj -> C:\Users\roxan\Documents\GitHub\SecurityDescriptor\SecurityDescriptor\Debug\SecurityDescriptor.pdb (Full PDB)
